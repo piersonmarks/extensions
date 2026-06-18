@@ -1,0 +1,19 @@
+extensions/model-context-protocol-registry/CHANGELOG.md
+  s_261ea277b816db::t_6a6f4660fab99d 3-6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "155b2a9d8e2695e9911994b2514ee3d7b49f6bd9",
+  "prompts": {},
+  "sessions": {
+    "s_261ea277b816db": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dbc8e278-c17f-4bdd-b757-74651470196f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Pierson Marks <pierson@jellypod.ai>"
+    }
+  }
+}
